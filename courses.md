@@ -4,6 +4,8 @@ title: Course Catalog
 permalink: /courses/
 ---
 
+<article class="catalog-course" markdown="1">
+
 ### *Web Development* (1 semester)
 
 #### Course Description
@@ -18,6 +20,9 @@ Our first course provides an interactive overview of logic, computational thinki
 *	Learn the syntax of a modern development language (either Ruby or Python, determined by instructor availability)
 *	Use object-oriented design patterns to create applications in the chosen language  
 
+</article>
+
+<article class="catalog-course" markdown="1">
 
 ### *Mobile Development for iPhone* (1 semester)
 
@@ -33,6 +38,9 @@ An understanding of mobile design considerations is a necessity for modern devel
 * Use Swift to capture user interaction through taps and gestures
 * Use Swift to store and manipulate data from a variety of sources
 
+</article>
+
+<article class="catalog-course" markdown="1">
 
 ### *The Lab* (up to 2 semesters)
 
@@ -46,3 +54,5 @@ An understanding of mobile design considerations is a necessity for modern devel
 *	Work in teams to solve real business problems assigned by companies in Silicon Valley and their local community
 *	Present their solutions to company representatives for feedback and review
 *	Work in teams to conceptualize, design, and develop an application that solves a problem in their school or community
+
+</article>
