@@ -79,9 +79,20 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
+h1, h2 {
     font-family: 'Montserrat';
     font-weight: 300;
+}
+
+h3, h4, h5, h6 {
+    font-family: 'Open Sans';
+    font-weight: 300;
+}
+
+h5 {
+  text-transform: uppercase;
+  color: #adadad;
+  margin: 20px 0 8px;
 }
 
 

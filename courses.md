@@ -8,10 +8,10 @@ permalink: /courses/
 
 ### *Web Development* (1 semester)
 
-#### Course Description
+##### Course Description
 Our first course provides an interactive overview of logic, computational thinking, and design. Students get their hands dirty writing code on day one and will exit the course with an impressive portfolio of working websites and web applications.
 
-#### Student Objectives
+##### Student Objectives
 
 * Use HTML and CSS to create elegant web pages
 *	Design with a “mobile-first” mentality
@@ -26,11 +26,11 @@ Our first course provides an interactive overview of logic, computational thinki
 
 ### *Mobile Development for iPhone* (1 semester)
 
-#### Course Description
+##### Course Description
 
 An understanding of mobile design considerations is a necessity for modern developers. Students will get their hands dirty on day one, using Apple’s new iPhone development language, Swift. Students will exit with a portfolio of working iPhone apps and a desire to expand it.
 
-#### Student Objectives
+##### Student Objectives
 
 * Review logic/computational thinking
 * Learn the syntax and conventions of the Swift programming language
@@ -44,11 +44,11 @@ An understanding of mobile design considerations is a necessity for modern devel
 
 ### *The Lab* (up to 2 semesters)
 
-#### Course Description
+##### Course Description
 
 *The Lab* is the culmination of the Punchcard experience. There’s nothing like working on real problems. It’s one of the most meaningful ways to learn, and the interactions students will have with employees at our partner companies and members of their community are invaluable.
 
-#### Student Objectives
+##### Student Objectives
 
 *	Use skills acquired in Web and iPhone Development
 *	Work in teams to solve real business problems assigned by companies in Silicon Valley and their local community
