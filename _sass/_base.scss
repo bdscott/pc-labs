@@ -79,8 +79,13 @@ li {
 /**
  * Headings
  */
+<<<<<<< HEAD
 h1, h2 {
     font-family: 'Montserrat';
+=======
+h1, h2, h3, h4, h5, h6 {
+	font-family: $header-font-family;
+>>>>>>> 2b5fdd7e0b55fad0fcabbcd626bbfd3691f8691e
     font-weight: 300;
 }
 

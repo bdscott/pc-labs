@@ -1,8 +1,7 @@
 # Site settings
 title: Punchcard Labs
 # email: ben@arkansas.cf
-description: > # this means to ignore newlines until "baseurl:"
-  Launching in select classrooms, fall 2015.
+description: Punchcard Labs provides relevant tech curriculum for the nation's most innovative middle and high schools.
 baseurl: "/punchcard/" # the subpath of your site, e.g. /blog/
 url: "http://punchcardlabs.com" # the base hostname & protocol for your site
 # twitter_username: arkansasdotcf
