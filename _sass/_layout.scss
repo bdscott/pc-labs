@@ -160,6 +160,13 @@ div.spread {
 
 }
 
+.catalog-course {
+	h5 {
+		text-transform: uppercase;
+		color: #666666;
+		margin: 15px 0 10px 0;
+	}
+}
 
 
 /**
@@ -301,7 +308,7 @@ div.spread {
 
     h3 {
         font-size: 26px;
-        color: $logo-pink;
+        color: #BD2A4E;
 
         @include media-query($on-laptop) {
             font-size: 22px;
