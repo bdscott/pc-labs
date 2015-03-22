@@ -2,11 +2,32 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $logo-blue;
+	margin-top: 20px;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
     position: relative;
+
+	a#logo {
+		background: url(../images/logo.svg) no-repeat;
+		background-size: cover;
+		height: 40px;
+		width: 570px;
+		display: block;
+		border: none;
+		
+		@include media-query($on-laptop){
+			background: url(../images/logo-no-slogan.svg) no-repeat;
+			background-size: cover;
+			width: 150px;
+			height: 40px;
+		}
+		
+		@include media-query($on-palm){
+			margin-left: 15px;
+		}
+	}
+
 }
 
 .site-title {
@@ -88,8 +109,8 @@
 
 
 div.spread {
-	width: 900px;
-	height: 675px;
+	width: 100%;
+	height: auto;
 	border: 1px solid #d6d6d6;
 	margin: 0 auto;
 	padding: 3px;
@@ -109,7 +130,7 @@ div.spread {
 	}*/
 	
 	div.spread-page {
-		width: 49.9%;
+		width: 47%;
 		height: 100%;
 		
 		&.page-a {
@@ -125,30 +146,65 @@ div.spread {
 
 	&.home {
 		border: none;
+		margin-left: -62px;
+		
+		@include media-query($on-laptop){
+			margin-left: 0;
+		}
 		
 		div.spread-page {
 			&.page-a {
 				background: #BD2A4E;
+				width: 49%;
+				
+				@include media-query($on-palm){
+					display: none;
+				}
 				
 				h1 {
-					font-size: 4rem;
+					font-size: 3rem;
 					font-style: italic;
 					color: #ffffff;
-					padding: 20px;
+					padding: 0 40px 0 0;
+					text-align: center;
+					
+					span.quote-attrib {
+						display: block;
+						font-size: 2rem;
+						margin-top: 30px;
+					}
+					
+					@include media-query($on-laptop){
+						font-size: 2.5rem;
+					}
+					
+					@include media-query($on-tablet){
+						font-size: 2rem;
+						padding-right: 0;
+					}
 				}
 			}
 			
 			&.page-b {
 				border: none;
 				padding-top: 20px;
+				color: #ffffff;
+				
+				@include media-query($on-palm){
+					width: 100%;
+				}
 				
 				p, img {
-					padding: 0 15px 0 30px;
+					padding: 0;
+					
+					@include media-query($on-palm){
+						padding: 0 15px;
+					}
 				}
 				
 				img {
 					width: 65px;
-					padding-left: 40px;
+					padding-left: 20px;
 					padding-bottom: 15px;
 				}
 				
@@ -249,7 +305,12 @@ div.spread {
  * Page content
  */
 .page-content {
+	background: #ffffff;
     padding: $spacing-unit 0;
+	
+	@include media-query($on-palm){
+		padding-top: 0;
+	}
 }
 
 .page-heading {

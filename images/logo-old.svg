@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="267px" height="89px" viewBox="0 0 267 89" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-5" sketch:type="MSArtboardGroup">
+            <text id="Punchcard" sketch:type="MSTextLayer" font-family="PT Serif" font-size="36" font-weight="bold" fill="#FFFFFF">
+                <tspan x="20" y="52">Punchcard</tspan>
+            </text>
+            <path d="M211.555445,8.49351792 L8.05078125,8.38671875 L8.05078125,67.7417177 L230,67.7417177 L230,26.3789062 L211.555445,8.49351792 Z" id="Path-6" stroke="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

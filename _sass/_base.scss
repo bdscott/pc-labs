@@ -89,17 +89,16 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: #ffffff;
     text-decoration: none;
-
-    &:visited {
-        color: darken($brand-color, 15%);
-    }
+	display: inline;
+	line-height: 1;
+	border-bottom: 1px dotted;
+	padding-bottom: 1px;
 
     &:hover {
-        color: $text-color;
-        text-decoration: underline;
-    }
+        border-bottom: 1px solid;
+	}
 }
 
 

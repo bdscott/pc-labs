@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="852px" height="62px" viewBox="0 0 852 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>modern tech curricul + Punchcard + Path-6</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Welcome" sketch:type="MSLayerGroup" transform="translate(-61.000000, -115.000000)">
+            <g id="Artboard-5">
+                <g id="modern-tech-curricul-+-Punchcard-+-Path-6" transform="translate(62.000000, 116.000000)">
+                    <text id="engaging-tech-curric" sketch:type="MSTextLayer" font-family="PT Serif" font-size="27.8205738" font-style="italic" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="271" y="44">engaging tech curriculum, taught by practitioners</tspan>
+                    </text>
+                    <text id="Punchcard" fill="#FFFFFF" sketch:type="MSTextLayer" font-family="PT Serif" font-size="27.8205738" font-weight="bold">
+                        <tspan x="12" y="44">Punchcard</tspan>
+                    </text>
+                    <path d="M203.555445,0.49351792 L0.05078125,0.38671875 L0.05078125,59.7417177 L222,59.7417177 L222,18.3789062 L203.555445,0.49351792 L203.555445,0.49351792 Z" id="Path-6" stroke="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
