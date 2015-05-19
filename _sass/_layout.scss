@@ -240,6 +240,14 @@ nav.course-nav {
 
 				&.current {
 					border-bottom: 3px solid $background-color;
+
+				  &:hover {
+						color: #000000;
+					}
+				}
+
+				&:hover {
+					color: $background-color;
 				}
 			}
 		}
