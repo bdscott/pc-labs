@@ -6,6 +6,7 @@ permalink: /courses/web-development/
 
 <nav class="course-nav">
   <ul>
+    <li><a href="/courses">&larr; Course Catalog</a></li>
     <li><a href="" class="current">Course Information</a></li>
     <li><a href="">Syllabus</a></li>
     <li><a href="">Content Outline</a></li>
