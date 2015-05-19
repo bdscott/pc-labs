@@ -236,7 +236,7 @@ nav.course-nav {
 
 			a {
 				color: #000000;
-				border: none;
+				border-bottom: none;
 
 				&.current {
 					border-bottom: 3px solid $background-color;
