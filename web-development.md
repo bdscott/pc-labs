@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Web Development
-permalink: /courses/web-development
+permalink: /courses/web-development/
 ---
 
 <article class="catalog-course" markdown="1">
